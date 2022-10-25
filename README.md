@@ -27,7 +27,7 @@
 ## 基本算法
 程序算法设计流程图如下：
 
-![flow chart](https://github.com/whfox/campus-guide-consultation/img/flow.png)
+![flow chart](https://github.com/whfox/campus-guide-consultation/blob/main/img/flow.png)
 ## 数据结构及程序块设计
 ### 定义相关头文件
 程序里面需要用到的特殊功能函数或操作如字符串操作、文字输入输出等函数都是库中自带的类型。
@@ -47,20 +47,20 @@
 实现的主要功能有：
 1. 用户菜单栏选择
 
-![pic](https://github.com/whfox/campus-guide-consultation/img/1.png)
+![pic](https://github.com/whfox/campus-guide-consultation/blob/main/img/1.png)
 
 2. 矿大校园平面图
 
-![pic](https://github.com/whfox/campus-guide-consultation/img/2.png)
+![pic](https://github.com/whfox/campus-guide-consultation/blob/main/img/2.png)
 
 3. 基本信息修改
 
-![pic](https://github.com/whfox/campus-guide-consultation/img/3.png)
+![pic](https://github.com/whfox/campus-guide-consultation/blob/main/img/3.png)
 
 4. 景点信息查询
 
-![pic](https://github.com/whfox/campus-guide-consultation/img/4.png)
+![pic](https://github.com/whfox/campus-guide-consultation/blob/main/img/4.png)
 
 5. 景点最短路径查询
 
-![pic](https://github.com/whfox/campus-guide-consultation/img/5.png)
+![pic](https://github.com/whfox/campus-guide-consultation/blob/main/img/5.png)
